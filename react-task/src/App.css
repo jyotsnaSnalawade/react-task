@@ -1,0 +1,18 @@
+.navbar{
+    background: rgb(26, 26, 68);
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+  }
+  a{
+    color: white;
+    text-decoration: none;
+    margin-left: 35px;
+    font-weight: 600;
+    font-size: 20px;
+  }
+  a:hover{
+    color: aqua;
+  }
